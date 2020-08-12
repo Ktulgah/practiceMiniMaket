@@ -1,0 +1,61 @@
+{
+  "paints": [
+    {
+      "id": 0,
+      "img": "img/paints/AdamCreate.png",
+      "altimg": "AdamCreate",
+      "author": "Микеланджело",
+      "title": "«Сотворение Адама»",
+      "price": {
+        "price": 6000000,
+        "sale": 5000000
+      }
+    },
+    {
+      "id": 1,
+      "img": "img/paints/Anatom.png",
+      "altimg": "Anatom",
+      "author": "Рембрандт",
+      "title": "«Урок анатомии»",
+      "price": {
+        "price": 0,
+        "sale": 0
+      }
+    },
+    {
+      "id": 2,
+      "img": "img/paints/RozhVen.png",
+      "altimg": "RozhVen",
+      "title": "«Рождение Венеры»",
+      "author": "Сандро Боттичелли",
+      "price": {
+        "price": 2000000,
+        "sale": 1000000
+      }
+    },
+    {
+      "id": 3,
+      "img": "img/paints/Vech.png",
+      "altimg": "Vech",
+      "title": "«Тайная вечеря»",
+      "author": "Леонардо да Винчи",
+      "price": {
+        "price": 3000000,
+        "sale": 0
+      }
+    },
+    {
+      "id": 0,
+      "img": "img/paints/AdamCreate.png",
+      "altimg": "AdamCreate",
+      "author": "Микеланджело",
+      "title": "«Сотворение Адама»",
+      "price": {
+        "price": 6000000,
+        "sale": 5000000
+      }
+    }
+  ],
+  "requests": [
+  ]
+}

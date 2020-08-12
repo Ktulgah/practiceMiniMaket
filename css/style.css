@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Merriweather, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 150%;
+}
+
+.container {
+    width: 1168px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 97px;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+
+.left-column {
+    display: flex;
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+}
+
+.navigate {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.navigate li {
+    padding-left: 24px;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: #343030;
+}
+
+.search {
+    display: flex;
+    border: 1px solid #E1E1E1;
+}
+
+.search-window {
+    padding-left: 16px;
+    border: none;
+    height: 48px;
+    width: 294px;
+}
+
+.search-window::placeholder {
+    color: #E5E5E5;
+}
+
+.search-submit {
+    height: 48px;
+    width: 122px;
+    border: none;
+    background-color: #403432;
+    color: white;
+}
+
+.main {
+    padding-top: 35px;
+}
+
+.paint-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+    flex-wrap: wrap;
+}
+
+.paintWindow {
+    border: 1px solid #E1E1E1;
+    height: 320px;
+    margin: 4px;
+    width: 280px;
+}
+
+.paint-holder {
+    border: 1px solid green;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.price.priceWithSale {
+    text-decoration: line-through;
+}
+
+.interact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.priceBlock {
+    display: flex;
+    flex-direction: column;
+}
+
+.buyButton {
+    width: 112px;
+    height: 48px;
+}
+
+.priceWithSale {
+    color: #A0A0A0;;
+}
+
+.footer .container {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contacts {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.contacts .icon {
+    width: 14px;
+    height: 14px;
+    margin: 0 10px;
+}
+
+.phone {
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
